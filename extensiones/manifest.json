@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Screenshot to ChatGPT",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
